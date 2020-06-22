@@ -1,5 +1,5 @@
 # deez-stats
-Analyze your Deezer listening history to discover your favourite genres, tunes and artists.
+Analyze your Deezer listening history to discover your Deez rank, top tunes and favourite artists.
 
 If you have any suggestions, improvements or questions please [drop me an email](mailto:deezstats@wetherall.pw).
 
