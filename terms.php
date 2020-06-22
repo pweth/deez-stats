@@ -37,3 +37,5 @@
 		<p>If you have any questions regarding this Terms Of Use or the practices of this Site, please contact us by sending an email to <a href="mailto:deezstats@wetherall.pw">deezstats@wetherall.pw</a></p>
 		<p>Last Updated: This Terms Of Use was last updated on Saturday 20<sup>th</sup> June 2020.</p>	
 	</div>
+</body>
+</html>
