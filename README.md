@@ -14,3 +14,4 @@ If you have any suggestions, improvements or questions please [drop me an email]
 - The concert image on the home page was taken by [Vishnu R Nair](https://www.pexels.com/@vishnurnair)
 - Icons provided by [IconMonstr](https://iconmonstr.com/)
 - Pattern backgrounds provided by [Toptal](https://www.toptal.com/designers/subtlepatterns/)
+- Counting animation created using [CountUp.js](https://github.com/inorganik/CountUp.js)
