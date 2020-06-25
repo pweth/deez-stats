@@ -402,32 +402,29 @@ img.me {
 .song img {
 	width: 80%;
 	position: relative;
+	transition: all 1s;
 }
 .song > div {
 	width: calc(100% - 30px);
 	background: #FFF;
 	font-size: 20px;
 	padding: 15px;
-	-ms-transform: rotate(0deg);
-	-o-transform: rotate(0deg);
-	-moz-transform: rotate(0deg);
-	-webkit-transform: rotate(0deg);
-	transform: rotate(0deg);
-	transition: all 1s;
-}
-.song.seen > div {
 	-ms-transform: rotate(180deg);
 	-o-transform: rotate(180deg);
 	-moz-transform: rotate(180deg);
 	-webkit-transform: rotate(180deg);
 	transform: rotate(180deg);
+	transition: all 1s;
 }
-.song.seen:hover > div {
-	-ms-transform: rotate(360deg);
-	-o-transform: rotate(360deg);
-	-moz-transform: rotate(360deg);
-	-webkit-transform: rotate(360deg);
-	transform: rotate(360deg);
+.song.seen > div {
+	-ms-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
+}
+.song.seen:hover img {
+	filter: grayscale(1);
 }
 .been-liking.deez::after {
 	background: #1CAA5D;
