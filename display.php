@@ -34,7 +34,7 @@ $data = [
 			<h1>
 				Hang tight <span class="name"><?php echo $data["name"]; ?>.</span>
 				<br>
-				I am grabbing your data...
+				Calculating your statistics...
 			</h1>
 			<img draggable="false" src="img/loading.gif">
 		</div>
