@@ -1,7 +1,7 @@
 # deez-stats
 Analyze your Deezer listening history to discover your Deez rank, top tunes and favourite artists.
 
-If you have any suggestions, improvements or questions please [drop me an email](mailto:deezstats@wetherall.pw).
+If you have any suggestions, improvements or questions please email: [hello@deezstats.com](mailto:hello@deezstats.com).
 
 ### Future ideas 💡
 
