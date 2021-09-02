@@ -15,4 +15,3 @@ If you have any suggestions, improvements or questions please email: [hello@deez
 - Icons provided by [IconMonstr](https://iconmonstr.com/)
 - Pattern backgrounds provided by [Toptal](https://www.toptal.com/designers/subtlepatterns/)
 - Counting animation created using [CountUp.js](https://github.com/inorganik/CountUp.js)
-![](https://t.pw.ax/MTYzMDU3NzU1Ny4yNjk0)
