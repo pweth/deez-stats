@@ -11,12 +11,12 @@
 	<meta name="description" content="Analyze your Deezer listening history to discover your Deez rank, top tunes and favourite artists.">
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:url" content="https://deezstats.com">
-	<meta name="twitter:image" content="https://deezstats.com/favicon.png">
+	<meta name="twitter:image" content="https://i.pw.ax/deez-stats.png">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://deezstats.com">
 	<meta property="og:title" content="Deez Stats">
 	<meta property="og:description" content="Analyze your Deezer listening history to discover your Deez rank, top tunes and favourite artists.">
-	<meta property="og:image" content="https://deezstats.com/favicon.png">
+	<meta property="og:image" content="https://i.pw.ax/deez-stats.png">
 	<meta name="theme-color" content="#479ECC">
 	<link rel="icon" href="favicon.png">
 	<link rel="stylesheet" href="css/style.css">
