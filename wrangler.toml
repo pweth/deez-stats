@@ -1,0 +1,14 @@
+name = "deez-stats-worker"
+workers_dev = true
+compatibility_date = "2022-01-20"
+main = "build/worker/shim.mjs"
+kv_namespaces = [
+    { binding = "DEEZ_STATS", id = "e1a09e94bd2d47808506d7e5f9d1d4c4" }
+]
+
+[vars]
+WORKERS_RS_VERSION = "0.0.9"
+APP_ID = "603364"
+
+[build]
+command = "cargo install -q worker-build && worker-build --release" # required
