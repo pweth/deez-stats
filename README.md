@@ -4,7 +4,7 @@ Analyze your Deezer listening history to discover how mainstream your music tast
 
 &nbsp;
 
-[![Deez Stats Demo](https://media0.giphy.com/media/bcDRCKrAo2PLE5qKUF/giphy.gif)](https://deezstats.com)
+[![Deez Stats Demo](demo.gif)](https://deezstats.com)
 
 &nbsp;
 </div>
